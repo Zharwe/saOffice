@@ -1,0 +1,148 @@
+body{
+    font-family: "Ubuntu Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+/*NavBar CSS*/
+.navbar{
+    background-color:#ffffff;
+}
+.containerWrap{
+    padding-left:10% !important;
+    padding-right:10% !important;
+}
+
+.navbarLogo{
+    height:7vm;
+}
+
+
+.nav-item a{
+    color: #211e8f;
+    font-size:1.1rem;
+    font-family: "Fira Code", monospace;
+    font-optical-sizing: auto;    
+    font-style: normal;
+    text-align: center;
+}
+
+.nav-item a:hover{
+    color: #211e8f;
+    font-weight:bold;
+}
+
+.nav-item a.active{
+    color:#211e8f !important;
+}
+
+.nav-item .dropdown-menu{
+    background-color:#ffffff !important;
+}
+
+.nav-item .dropdown-menu a{
+    color:#211e8f;
+    font-size:1.1rem;
+    text-align:left;
+}
+
+.nav-item .dropdown-menu a:hover{
+    color:#daddd4;
+    background-color:#211e8f;
+}
+
+/*Footer CSS*/
+#footer{
+    height:50%;
+    width:100%;
+    background-color:#FFFFFF;
+    color:#211e8f;
+    padding: 1% 10% 2% 10%;
+    display:flex;
+    justify-content:center;
+    text-align:center;
+}
+
+.footerLogo{
+    height:5rem;
+    margin-bottom:1%;
+}
+
+.footerLinks{
+    text-decoration:none;
+}
+
+/*Message from SA Section*/
+#message{
+    height:50%;
+    width:100%;
+    background-color:#211e8f;
+    color:#daddd4;
+    padding-left:10%;
+    padding-right:10%;
+}
+
+.messageArea{
+    height:50%;
+    width:100%;
+    padding-top:2%;
+
+}
+
+.saImage{
+    height: 95%;
+    width:95%;
+    margin-left:2.5%;
+
+}
+
+.messageHeader{
+    text-align:center;
+    font-size:10vm
+}
+
+.messageText{
+    font-size:1.15rem;
+    text-align:center;
+}
+
+/*Walk In CSS*/
+#walkINS{
+    height:50%;
+    width:100%;
+    background-color:#FFFFFF;
+    color:#211e8f;
+    padding: 2% 10% 2% 10%;
+    display:flex;
+    justify-content:center;
+}
+
+.trafficHeader{
+    text-align:center;
+}
+.scaleImage{
+    height: 75%;
+    width:75%;
+    margin-left:2.5%;
+}
+
+div.trafficImageCol{
+    text-align:center;
+}
+.walkInInformation{
+    text-align:center;
+}
+
+/*Programs CSS*/
+#programs{
+    height:50%;
+    width:100%;
+    background-color:#211e8f;
+    color:#FFFFFF;
+    padding: 2% 10% 2% 10%;
+}
+
+.programCard{
+    margin-top:2%;
+    text-align:center;
+}
+

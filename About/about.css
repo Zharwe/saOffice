@@ -1,0 +1,66 @@
+#middleSection{
+    height:50%;
+    width:100%;
+    background-color:#211e8f;
+    color:#daddd4;
+    padding-left:10%;
+    padding-right:10%;
+    padding-bottom:2%;
+}
+/*About the SA CSS*/
+.saImg{
+    height: 95%;
+    width:95%;
+    margin-left:2.5%;
+}
+/*State's Attorney's Office CSS*/
+.courthouseImg{
+    height: 95%;
+    width:95%;
+    margin-left:2.5%;
+}
+
+.subHeader{
+    text-align:center;
+}
+
+.saOfficeUL{
+    list-style-type:none;
+}
+
+/*History of State's Attorney's Office CSS*/
+.firstImg{
+    height: 95%;
+    width:95%;
+    margin-left:2.5%;
+}
+
+.whiteSection{
+    height:50%;
+    width:100%;
+    background-color:#FFFFFF;
+    color:#211e8f;
+    padding: 2% 10% 2% 10%;
+    display:flex;
+    justify-content:center;
+}
+
+.blueSection{
+    height:50%;
+    width:100%;
+    background-color:#211e8f;
+    color:#FFFFFF;
+    padding: 2% 10% 2% 10%;
+    display:flex;
+    justify-content:center;
+}
+
+.historyJudgeNames{
+    text-align:center;
+    padding-top:2%;
+}
+
+.judgeParagraphs{
+    text-align:justify;
+    padding-right:1%;
+}
