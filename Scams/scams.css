@@ -5,4 +5,34 @@
     color:#daddd4;
     padding-left:10%;
     padding-right:10%;
+    padding-bottom:2%;
+}
+
+/*Scam Alert CSS*/
+.scamsImg{
+    height: 85%;
+    width:85%;
+    margin-left:2.5%;
+}
+
+.accordion{
+    --bs-accordion-btn-bg:#FFFFFF !important;
+    --bs-accordion-btn-color:#211e8f !important;
+    --bs-accordion-active-bg:#FFFFFF !important;
+    --bs-accordion-active-color:#211e8f !important;
+    --bs-accordion-bg:#211e8f !important;
+    --bs-accordion-color:#FFFFFF !important;
+    --bs-accordion-btn-focus-box-shadow: none !important;
+}
+
+.accordion-button{
+    font-size:1.35rem !important;
+}
+
+.scamssHeader{
+    font-weight:bold;
+}
+
+.scamsPara{
+    font-size:1.15rem;
 }

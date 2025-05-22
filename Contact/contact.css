@@ -5,4 +5,10 @@
     color:#daddd4;
     padding-left:10%;
     padding-right:10%;
+    padding-bottom:2%;
+}
+
+.btn.btn-primary{
+    background-color:#FFFFFF !important;
+    color:#211e8f !important;
 }

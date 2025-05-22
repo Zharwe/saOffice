@@ -5,4 +5,43 @@
     color:#daddd4;
     padding-left:10%;
     padding-right:10%;
+    padding-bottom:2%;
+}
+/*Traffic CSS*/
+.trafficImg{
+    height:85%;
+    width:85%;
+    margin-left:2.5%;
+    border-radius:50%;
+}
+
+/*DUI CSS*/
+.breathImg{
+    height:85%;
+    width:85%;
+    margin-left:2.5%;
+    border-radius:50%;
+}
+
+.accordion{
+    --bs-accordion-btn-bg:#FFFFFF !important;
+    --bs-accordion-btn-color:#211e8f !important;
+    --bs-accordion-active-bg:#FFFFFF !important;
+    --bs-accordion-active-color:#211e8f !important;
+    --bs-accordion-bg:#211e8f !important;
+    --bs-accordion-color:#FFFFFF !important;
+    --bs-accordion-btn-focus-box-shadow: none !important;
+    --bs-accordion-accordion-border-width:1% !important;
+}
+
+.accordion-button{
+    font-size:1.35rem !important;
+}
+
+.sentencesHeader{
+    font-weight:bold;
+}
+
+.sentencesPara{
+    font-size:1.15rem;
 }

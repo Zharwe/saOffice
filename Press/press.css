@@ -3,6 +3,13 @@
     width:100%;
     background-color:#211e8f;
     color:#daddd4;
-    padding-left:10%;
-    padding-right:10%;
+    padding: 2% 10%;
+}
+
+div a.btn{
+    background-color:#211e8f !important;
+}
+div.card{
+    color:#211e8f;
+    margin-bottom:3%;
 }
